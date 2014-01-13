@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+        <name>Home Elevator</name>
+
+        <description>
+        A Home Elevator Application for iOS and Android tablets 
+        </description>
+
+        <author href="http://www.bluesapphirecreations.com" email="vipul.sharma@bluesapphirecreations.com">
+               Blue Sapphire Creation Team
+        </author>
+
+
+        <icon src="icon.png" /> 
+        <gap:splash src="splash.png" />
+
+         <preference name="fullscreen" value="true" />
+        <preference name="exit-on-suspend" value="true" />
+
+
+
+</widget>
